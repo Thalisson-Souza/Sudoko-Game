@@ -36,3 +36,14 @@ Este projeto foi desenvolvido como parte da disciplina de Laboratório de Progra
 ```bash
 Pontuação = 1285 + (97418 × (dificuldade + 1)) ÷ tempo
 ```
+## Pré requisitos
+- Sistema Operacional:
+
+Linux: qualquer distribuição compatível.
+
+Windows: deve ter o WSL (Windows Subsystem for Linux) instalado. [Guia de instalação do WSL.](https://learn.microsoft.com/pt-br/windows/wsl/install)
+
+- Biblioteca Allegro 5:
+
+A versão 5.2.9.1 ou superior é necessária para rodar este projeto.
+Certifique-se de que essa versão está instalada, seguindo as instruções descritas na seção de [Instalação Allegro 5.](https://github.com/Thalisson-Souza/Jogo-da-Velha-com-Allegro-5/blob/main/Instala%C3%A7%C3%A3o-Allegro5.md)
