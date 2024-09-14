@@ -1,13 +1,11 @@
 
 # Sudoku Game
 
-<p align="center">
-  <a href="#sobre">Sobre</a> • 
-  <a href="#funcionalidades">Funcionalidades</a> • 
-  <a href="#tecnologias-utilizadas">Tecnologias</a> • 
-  <a href="#pré-requisitos">Pré-requisitos</a> • 
-  <a href="#como-executar">Execução</a>
-</p>
+<div align="center">
+
+[Sobre](#sobre) • [Tecnologias](#tecnologias-utilizadas) • [Funcionalidades](#funcionalidades) • [Pré requisitos](#pré-requisitos) • [Execução](#como-executar)
+
+</div>
 
 ## Sobre 
 Este projeto é um jogo de tabuleiro Sudoku desenvolvido como parte de um projeto acadêmico. O jogo oferece uma experiência desafiadora com tabuleiros variados, selecionados aleatoriamente a partir de uma base de 100 tabuleiros, cada um com um nível de dificuldade diferente.
