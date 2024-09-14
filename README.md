@@ -47,3 +47,7 @@ Windows: deve ter o WSL (Windows Subsystem for Linux) instalado. [Guia de instal
 
 A versão 5.2.9.1 ou superior é necessária para rodar este projeto.
 Certifique-se de que essa versão está instalada, seguindo as instruções descritas na seção de [Instalação Allegro 5.](https://github.com/Thalisson-Souza/Jogo-da-Velha-com-Allegro-5/blob/main/Instala%C3%A7%C3%A3o-Allegro5.md)
+
+## Licença
+
+Este projeto está licenciado sob a [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Thalisson-Souza/Sudoko-Game/blob/main/LICENSE)
