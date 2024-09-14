@@ -20,12 +20,8 @@ Este projeto é um jogo de tabuleiro Sudoku desenvolvido como parte de um projet
 
   - 3 - Osco (extremamente difícil)
 
-- **Inserção de Nome:** O jogador insere seu nome no início do jogo, o que permite o registro de pontos e a consulta posterior.
+- **Registro de Pontos:**  Ao completar o tabuleiro, o jogo verifica o nome do jogador no arquivo de pontuação. Se o jogador já tiver completado o mesmo tabuleiro, os pontos são somados aos anteriores. Caso contrário, é criado um novo registro com a identificação do tabuleiro e a pontuação correspondente.
 
-- **Registro de Pontos:** Ao completar o tabuleiro, o jogo verifica se o nome do jogador já está presente no arquivo de pontuação:
-
-  - Acúmulo de Pontos: Se o jogador já tiver completado o mesmo tabuleiro anteriormente, os pontos são acumulados com os registrados anteriormente.
-  - Novo Registro por Tabuleiro: Se o jogador completar um tabuleiro diferente, um novo registro de pontos é criado com a identificação do novo tabuleiro e sua respectiva pontuação.
 
 - **Cálculo de Pontos:** É calculada com base na dificuldade do jogo e no tempo (em segundos) que o jogador levou para resolvê-lo. A fórmula usada para o cálculo é a seguinte:
 
