@@ -8,7 +8,7 @@
 </div>
 
 ## Sobre 
-Este projeto é um jogo de tabuleiro Sudoku desenvolvido como parte de um projeto acadêmico. O jogo oferece uma experiência desafiadora com tabuleiros variados, selecionados aleatoriamente a partir de uma base de 100 tabuleiros, cada um com um nível de dificuldade diferente.
+Este projeto foi desenvolvido como parte da disciplina de Laboratório de Programação do curso de Ciência da Computação da [Universidade Federal de Santa Maria](https://www.ufsm.br/). O objetivo principal é criar um jogo de tabuleiro **Sudoku** utilizando a biblioteca Allegro 5, O projeto explora as funcionalidades gráficas da biblioteca para criar uma interface visual interativa e aprimorar a experiência do usuário. O jogo apresenta tabuleiros variados, selecionados aleatoriamente a partir de uma base de 100 tabuleiros, cada um com um nível de dificuldade diferente.
 
 ## Tecnologias Utilizadas
 - Linguagem: C/C++
